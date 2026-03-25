@@ -1,1 +1,1 @@
-"some bad code"? 
+print("some Good code")
